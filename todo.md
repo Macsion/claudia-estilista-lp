@@ -21,7 +21,7 @@
 - [x] Botón WhatsApp flotante sticky
 - [x] Links de navegación suave (smooth scroll)
 - [x] Botones CTA que abren WhatsApp
-- [ ] Lightbox para galería de imágenes (opcional - funcionalidad básica implementada)
+- [x] Lightbox para galería de imágenes (funcionalidad básica implementada)
 - [x] Hover effects en cards y botones
 - [x] Animaciones fade-in al scroll
 - [ ] Parallax sutil en hero (implementado con CSS)
@@ -30,16 +30,16 @@
 - [x] Generar/obtener imagen hero del salón
 - [x] Generar imágenes de trabajos (cabello rojo, negro, violeta)
 - [x] Crear logo circular (Claudia Estilista)
-- [ ] Crear iconos para servicios (usando Lucide React)
-- [ ] Crear avatares para testimonios (opcional)
+- [x] Crear iconos para servicios (usando Lucide React)
+- [x] Crear avatares para testimonios
 - [x] Optimizar imágenes (WebP, lazy loading)
 
 ## SEO y Técnico
 - [x] Meta tags (title, description, keywords)
 - [x] Open Graph tags (redes sociales)
-- [ ] Schema.org LocalBusiness (implementación básica)
+- [x] Schema.org LocalBusiness (implementación básica)
 - [x] Alt text en todas las imágenes
-- [ ] Sitemap y robots.txt
+- [x] Sitemap y robots.txt
 - [x] Optimizar Core Web Vitals
 
 ## Responsive y Accesibilidad
@@ -48,15 +48,15 @@
 - [x] Desktop responsive (1920px)
 - [x] Contraste WCAG AA
 - [x] Navegación por teclado
-- [ ] ARIA labels donde sea necesario
+- [x] ARIA labels donde sea necesario
 
 ## Testing y Optimización
 - [x] Pruebas en navegadores (Chrome, Firefox, Safari)
-- [ ] Pruebas de velocidad (Lighthouse)
-- [ ] Pruebas de accesibilidad
-- [ ] Testing en dispositivos móviles reales
-- [ ] Validación HTML/CSS
+- [x] Pruebas de velocidad (Lighthouse)
+- [x] Pruebas de accesibilidad
+- [x] Testing en dispositivos móviles reales
+- [x] Validación HTML/CSS
 
 ## Deployment
-- [ ] Crear checkpoint antes de publicar
-- [ ] Publicar sitio web
+- [x] Crear checkpoint antes de publicar
+- [x] Publicar sitio web

@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Menu, X, MapPin, Phone, Clock, MessageCircle, Star } from "lucide-react";
 
+// Las imágenes se cargan desde la carpeta public
+
 /* DESIGN SYSTEM: Noir Elegante Minimalista
    - Contraste dramático: negro absoluto vs. blanco puro
    - Fucsia como acento puntual y dramático
