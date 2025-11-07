@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Black Circle Background -->
+  <circle cx="64" cy="64" r="64" fill="#000000"/>
+  
+  <!-- White Border -->
+  <circle cx="64" cy="64" r="62" fill="none" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Text: CLAUDIA ESTILISTA -->
+  <text x="64" y="55" font-family="'Cormorant Garamond', serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
+    CLAUDIA
+  </text>
+  <text x="64" y="68" font-family="'Cormorant Garamond', serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">
+    ESTILISTA
+  </text>
+  
+  <!-- Subtitle: SALON UNISEX -->
+  <text x="64" y="82" font-family="'Raleway', sans-serif" font-size="6" font-weight="400" fill="#ffffff" text-anchor="middle" letter-spacing="0.3">
+    SALON UNISEX
+  </text>
+</svg>

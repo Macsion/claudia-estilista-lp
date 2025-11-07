@@ -1,8 +1,22 @@
 export { COOKIE_NAME, ONE_YEAR_MS } from "@shared/const";
 
-export const APP_TITLE = import.meta.env.VITE_APP_TITLE || "App";
+export const APP_TITLE = import.meta.env.VITE_APP_TITLE || "Claudia Estilista - Salón Unisex";
 
-export const APP_LOGO = "https://placehold.co/128x128/E1E7EF/1F2937?text=App";
+export const APP_LOGO = "/logo.svg";
+
+export const BUSINESS_INFO = {
+  name: "Claudia Estilista",
+  slogan: "Salón Unisex",
+  phone: "011 3449-3593",
+  whatsapp: "5491134493593",
+  address1: "Moreno 1190, B1667 Tortuguitas, Buenos Aires",
+  address2: "Hipólito Bouchard 1416, Grand Bourg",
+  hours: "Lunes a Sábados 9:00 - 19:00 hs",
+  instagram: "@claudiaestilista1190",
+  facebook: "facebook.com/claudiaestilista1190",
+  rating: "4.2",
+  reviews: 185,
+};
 
 // Generate login URL at runtime so redirect URI reflects the current origin.
 export const getLoginUrl = () => {
